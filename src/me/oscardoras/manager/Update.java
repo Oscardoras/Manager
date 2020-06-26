@@ -1,4 +1,4 @@
-package org.manager;
+package me.oscardoras.manager;
 
 import java.io.File;
 import java.io.FileOutputStream;

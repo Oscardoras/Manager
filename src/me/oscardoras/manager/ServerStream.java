@@ -1,4 +1,4 @@
-package org.manager;
+package me.oscardoras.manager;
 
 import java.io.BufferedReader;
 import java.io.IOException;
